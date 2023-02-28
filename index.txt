@@ -1,0 +1,260 @@
+
+```
+
+## Colors
+
+``` css
+--raisin-black-2: hsl(245, 16%, 16%);
+--raisin-black-1: hsl(244, 17%, 19%);
+--majorelle-blue: hsl(245, 67%, 59%);
+--ghost-white-1: hsl(240, 100%, 99%);
+--ghost-white-2: hsl(228, 50%, 96%);
+--white-opacity: hsla(0, 0%, 100%, 0.5);
+--independence: hsl(245, 17%, 27%);
+--lavender-web: hsl(247, 69%, 95%);
+--eerie-black: hsl(210, 11%, 15%);
+--cool-gray: hsl(244, 17%, 61%);
+--sapphire: hsl(211, 100%, 35%);
+--white: hsl(0, 0%, 100%);
+```
+
+## Typography
+
+### Font Family
+
+``` css
+--ff-quicksand: "Quicksand", sans-serif;
+--ff-mulish: "Mulish", sans-serif;
+```
+
+### Font Size
+
+``` css
+--fs-1: 36px;
+--fs-2: 28px;
+--fs-3: 20px;
+--fs-4: 17px;
+--fs-5: 16px;
+--fs-6: 15px;
+--fs-7: 14px;
+```
+
+### Font Weight
+
+``` css
+--fw-500: 500;
+--fw-600: 600;
+--fw-700: 700;
+```
+
+## Transition
+
+``` css
+--transition: 0.25s ease;
+```
+
+## Spacing
+
+``` css
+--section-padding: 80px;
+```
+
+-------------------->>
+
+Landio - Landing page
+
+
+
+# HEADER
+
+alt = Landio logo
+
+<ion-icon name="menu-outline"></ion-icon>
+
+Home
+Features
+Pricing
+Blog
+Contact Us
+Log in
+Register
+
+
+
+# HERO
+
+Creative Landing Page
+
+A creative & modern landing page with Landio template & We love make things amazing.
+
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur that is fugit.
+
+placeholder = Enter Your Email
+
+Subscribe
+
+alt = Hero image
+
+
+
+# ABOUT
+
+<ion-icon name="cube"></ion-icon>
+
+Why Choose Us ?
+
+Nam libero tempore cum soluta as nobis est eligendi optio cumque nihile impedite quo minus id quod maxime.
+
+Learn More
+
+<ion-icon name="thumbs-up"></ion-icon>
+
+Esay To Use
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
+
+<ion-icon name="trending-up"></ion-icon>
+
+Grow Your Revenue
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
+
+<ion-icon name="shield-checkmark"></ion-icon>
+
+Analytics Security
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
+
+<ion-icon name="server"></ion-icon>
+
+Data Privacy
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
+
+
+
+# FEATURES
+
+Awesome Features
+
+Et harum quidem rerum facilis est et expedita distinctio nam libero tempore cum soluta nobis eligendi cumque.
+
+alt = illustration art
+
+<ion-icon name="sparkles"></ion-icon>
+CREATIVE FEATURES
+
+Build community & conversion with our suite of social tool
+
+Temporibus autem quibusdam et aut officiis debitis aut rerum a necessitatibus saepe eveniet ut et voluptates repudiandae sint molestiae non recusandae itaque.
+
+<ion-icon name="layers-outline"></ion-icon>
+Donec pede justo fringilla vel nec.
+
+<ion-icon name="megaphone-outline"></ion-icon>
+Cras ultricies mi eu turpis hendrerit fringilla.
+
+Read More
+Buy Now
+
+
+We do the work you stay focused on your customers.
+
+<ion-icon name="rocket-outline"></ion-icon>
+Donec pede justo fringilla vel nec.
+
+<ion-icon name="wifi-outline"></ion-icon>
+Cras ultricies mi eu turpis hendrerit fringilla.
+
+
+
+# BLOG
+
+Latest News
+
+Et harum quidem rerum facilis est et expedita distinctio nam libero tempore cum soluta nobis eligendi cumque.
+
+alt = Best Traveling Place
+
+<ion-icon name="calendar-outline"></ion-icon>
+april 10 2020
+
+<ion-icon name="person-outline"></ion-icon>
+admin
+
+Best Traveling Place
+
+Integer ante arcu accumsan a consectetuer eget posuere mauris praesent adipiscing phasellus ullamcorper ipsum rutrum punc.
+
+Learn More
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+Private Meeting Room
+
+The Best Business Ideas
+
+
+
+# CONTACT
+
+Contact Us
+
+Et harum quidem rerum facilis est et expedita distinctio nam libero tempore cum soluta nobis eligendi cumque.
+
+Name*
+placeholder = Enter Your Name
+
+Email*
+placeholder = Enter Your Email
+
+Message*
+placeholder = Type Your Message
+
+Send Message
+<ion-icon name="paper-plane-outline"></ion-icon>
+
+<ion-icon name="mail-outline"></ion-icon>
+: support@website.com
+
+<ion-icon name="globe-outline"></ion-icon>
+: www.website.com
+
+<ion-icon name="call-outline"></ion-icon>
+: (+001) 123 456 7890
+
+<ion-icon name="time-outline"></ion-icon>
+: 9:00 AM - 6:00 PM
+
+<ion-icon name="location-outline"></ion-icon>
+: 1644 Deer Ridge Drive Rochelle Park, NJ 07662
+
+
+
+# FOOTER
+
+alt = Landio logo
+
+Cras ultricies mi eu turpis sit hendrerit fringilla vestibulum ante ipsum primis in faucibus ultrices posuere cubilia.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+ABOUT US
+Works
+Strategy
+Releases
+Press
+Mission
+
+CUSTOMERS
+Tranding
+Popular
+Customers
+Features
+
+SUPPORT
+Developers
+Support
+Customer Service
+Get Started
+Guide
+
+&copy; 2022 codewitfirdosh. All Right Reserved
