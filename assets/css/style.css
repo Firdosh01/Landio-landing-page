@@ -4,6 +4,7 @@
   box-sizing: border-box;
   --ff-quicksand: "Quicksand", sans-serif;
   --ff-mulish: "Mulish", sans-serif;
+  scroll-behavior: smooth;
 
 }
 
@@ -109,6 +110,7 @@ header {
   max-width: 500px;
   margin-bottom: 40px;
   color: hsl(245, 17%, 27%);
+  color: black;
 }
 
 .hero-content p {
@@ -788,9 +790,6 @@ footer {
   .feature-two-content {
     flex-basis: 50%;
   }
-
-  .feature-two-content span {}
-
   .feature-two-content h2 {
     margin-top: 20px;
     font-size: 1.5rem;
